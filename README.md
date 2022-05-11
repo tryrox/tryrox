@@ -1,22 +1,25 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div align="center">
-<img src="https://i.imgur.com/KU2DmVm.jpg" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/O18svtf.png" align="center" style="width: 100%" />
 </div>  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Learning   
 <!-- <table><tr><td valign="top" width="50%"> -->
 
 
 
 ### Frontend  
-<div align="column">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80" />  
+<div align="column">         
+<img style="margin: 15px" src="https://icongr.am/devicon/css3-plain.svg?size=148&color=ffffff" alt="CSS3" height="80" />  
+<img style="margin: 15px" src="https://icongr.am/devicon/html5-plain.svg?size=148&color=ffffff" alt="HTML5" height="80" />  
+<img style="margin: 15px" src="https://icongr.am/devicon/javascript-plain.svg?size=148&color=ffffff" alt="JavaScript" height="80" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80" />  
 </div>
 
 <!-- </td><td valign="top" width="50%"> -->
@@ -25,9 +28,12 @@
 
 ### Backend  
 <div align="column">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="80" />  
+<img style="margin: 15px" src="https://icongr.am/devicon/nodejs-plain.svg?size=148&color=ffffff" alt="Node.js" height="80" />  
+<img style="margin: 15px" src="https://icongr.am/devicon/javascript-plain.svg?size=148&color=ffffff" alt="JavaScript" height="80" />  
+<img style="margin: 15px" src="https://icongr.am/devicon/express-original.svg?size=148&color=ffffff" alt="Express.js" height="80" />   
+<img style="margin: 15px" src="https://icongr.am/devicon/mysql-plain-wordmark.svg?size=148&color=ffffff" alt="mySQL" height="80" />
+  
+                  
 </div>
 
 </td></tr></table>  
